@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\BookAuthorize\BookAuthorize\bin\Debug\BookAuthorize.dacpac
+C:\Users\Lenovo\source\repos\BookAuthorize\BookAuthorize\bin\Debug\BookAuthorize.dll
+C:\Users\Lenovo\source\repos\BookAuthorize\BookAuthorize\bin\Debug\BookAuthorize.pdb
+C:\Users\Lenovo\source\repos\BookAuthorize\BookAuthorize\obj\Debug\BookAuthorize.sqlproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BookAuthorize\BookAuthorize\obj\Debug\BookAuthorize.dll
+C:\Users\Lenovo\source\repos\BookAuthorize\BookAuthorize\obj\Debug\BookAuthorize.pdb
