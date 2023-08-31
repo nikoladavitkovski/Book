@@ -1,0 +1,6 @@
+CREATE TABLE BOOKS(
+Id, AuthorId
+)
+
+SELECT * 
+FROM BOOKS
